@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps projects**
 
-- 📫 How to reach me **dimitrovvdaniel@gmail.com**
+- 📫 Reach me at: **dimitrovvdaniel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
