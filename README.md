@@ -3,7 +3,7 @@
 <h3 align="center">a future DevOps Engineer</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/DevOps-Engineer.jpg"
  
-- 🌱 I’m currently learning **in-depth all the technologies and tools mentioned below.**
+- 🌱 I’m currently practicing and learning **in-depth all the technologies and tools mentioned below.**
 
 - 👨‍💻 I’m looking to collaborate on **DevOps projects**
 
