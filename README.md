@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently practicing and learning **in-depth all the technologies and tools mentioned below.**
 
-- 👨‍💻 I’m looking to collaborate on **DevOps projects**
+- 👨‍💻 I’m looking to collaborate on **DevOps projects.**
 
 - 📫 Reach me at: **dimitrovvdaniel@gmail.com**
 
